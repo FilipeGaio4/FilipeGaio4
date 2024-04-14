@@ -17,15 +17,13 @@ using namespace std;
 
 class Filipe {
 
-public:
-    vector<string> languages = {"cpp", "c", "c#", "python", "css", "html", "php", "sqlite", "java", "flutter"}
-    vector<string> tools = {"photoshop", "illustrator", "figma", "ableton", "sony vegas", "various IDE"}
-
 private:
     string name = "Filipe Gaio";
     int age = 20;
     vector<string> hobbies = {"Music", "Roller Hockey", "Coding", "Chess", "Explore"};
-
+public:
+    vector<string> languages = {"cpp", "c", "c#", "python", "css", "html", "php", "sqlite", "java", "flutter"}
+    vector<string> tools = {"photoshop", "illustrator", "figma", "ableton", "sony vegas", "various IDE"}
 
     //Filipe's Constructure
     Filipe(string n, int a, vector<string> h, vector<string> l, vector<sring> t) : name(n), age(a), hobbies(h), languages(l), tools(t) {}
