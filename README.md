@@ -51,7 +51,7 @@ int main() {
 
 <h3>My GitHub Stats</h3>
 
-<a href="http://www.github.com/avareno"><img src="https://github-readme-stats.vercel.app/api?username=filipegaio4&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="avareno's GitHub stats" /></a>
+<a href="http://www.github.com/filipegaio4"><img src="https://github-readme-stats.vercel.app/api?username=filipegaio4&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="filipegaio4's GitHub stats" /></a>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=filipegaio4" alt="filipegaio4" /></a> </p> -->
 <h3 align="left">Connect with me:</h3>
