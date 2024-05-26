@@ -41,6 +41,7 @@ int main() {
 | `LDTS` | <a href = "https://github.com/FilipeGaio4/LDTS-JetPackJoyride.git"> JetPack Joyride Remake</a> | $18.3/20$ | The famous JetPack Joyride Game made with lanterna (Java) | $2^{nd} year, 1^{st} semester$ |
 | `AED` | <a href = "https://github.com/FilipeGaio4/AED_PROJ_ScheduleMangmentSys.git"> Schedule Management System</a> | $19.8/20$ | A sys to see and make changes to college students schedules | $2^{nd} year, 1^{st} semester$ |
 | `DA` | <a href = "https://github.com/FilipeGaio4/1DA_PROJ_WaterMangmentSys.git"> Water Management System</a> | $20/20$ | A sys to see and make changes to a water network across the entire country | $2^{nd} year, 2^{st} semester$ |
+| `DA` | <a href = "https://github.com/FilipeGaio4/TSPProjectDA.git"> Travelling salesman problem</a> | $19.1/20$ | A sys to calculate routes for a graph (TSP) with different algrithms | $2^{nd} year, 2^{st} semester$ |
 
 <h3 align="left">Languages and Tools:</h3>
 
