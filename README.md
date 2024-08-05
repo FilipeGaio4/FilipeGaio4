@@ -2,9 +2,9 @@
 <h3 align="center">Both student of computing engineering and music</h3>
 <h5 align = "center"> Bsc in informatics and Computer Engineering @FEUP and piano Jazz student @CMP</h5>
 
-- 🔭 I’m currently working on some college and music personal projects
+- 🔭 I’m currently working on some college and music personal projects (maybe second album...)
 
-- 🌱 I’m currently learning **Flutter, JavaScript, PHP,**
+- 🌱 I’m currently learning **Ethical Hacking, React, TypeScript**
 
 - 💬 Ask me about **C++, python, music theory**
 
