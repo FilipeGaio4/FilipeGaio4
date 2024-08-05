@@ -40,8 +40,9 @@ int main() {
 | `PROG` | <a href = "https://github.com/HenriqueSFernandes/Image-Manipulation-Prog"> Image Manipulation</a> | $20/20$ | Image manipulation program written in C++ | $1^{st} year, 2^{nd} semester$ |
 | `LDTS` | <a href = "https://github.com/FilipeGaio4/LDTS-JetPackJoyride.git"> JetPack Joyride Remake</a> | $18.3/20$ | The famous JetPack Joyride Game made with lanterna (Java) | $2^{nd} year, 1^{st} semester$ |
 | `AED` | <a href = "https://github.com/FilipeGaio4/AED_PROJ_ScheduleMangmentSys.git"> Schedule Management System</a> | $19.8/20$ | A sys to see and make changes to college students schedules | $2^{nd} year, 1^{st} semester$ |
-| `DA` | <a href = "https://github.com/FilipeGaio4/1DA_PROJ_WaterMangmentSys.git"> Water Management System</a> | $20/20$ | A sys to see and make changes to a water network across the entire country | $2^{nd} year, 2^{st} semester$ |
-| `DA` | <a href = "https://github.com/FilipeGaio4/TSPProjectDA.git"> Travelling salesman problem</a> | $19.1/20$ | A sys to calculate routes for a graph (TSP) with different algrithms | $2^{nd} year, 2^{st} semester$ |
+| `DA` | <a href = "https://github.com/FilipeGaio4/1DA_PROJ_WaterMangmentSys.git"> Water Management System</a> | $20/20$ | A sys to see and make changes to a water network across the entire country | $2^{nd} year, 2^{nd} semester$ |
+| `DA` | <a href = "https://github.com/FilipeGaio4/TSPProjectDA.git"> Travelling salesman problem</a> | $19.1/20$ | A sys to calculate routes for a graph (TSP) with different algrithms | $2^{nd} year, 2^{nd} semester$ |
+| `LTW` | <a href = "https://github.com/FEUP-LTW-2024/ltw-project-2024-ltw15g01.git"> Pre-loved Clothing</a> | $16.3/20$ | A web page to sell and buy second-hand clothes (PHP, JavaScript, CSS, AJAX, SQLITE, API) | $2^{nd} year, 2^{nd} semester$ |
 
 <h3 align="left">Languages and Tools:</h3>
 
